@@ -1,8 +1,7 @@
 # 🧑‍💼 Satanand
 
 **Email:** satanand@duck.com  
-**GitHub:** [github.com/yourusername](https://github.com/Satanand01)  
-**LinkedIn:** [linkedin.com/in/satanand-ken-5bb0b1240]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/satanand-ken-5bb0b1240/))  
+**LinkedIn:** [linkedin.com/in/satanand-ken-5bb0b1240](https://www.linkedin.com/in/satanand-ken-5bb0b1240/)
 **MonkeyType:** [monkeytype.com/](https://monkeytype.com/profile/Kalamashtra)
 
 ---
