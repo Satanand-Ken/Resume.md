@@ -66,7 +66,7 @@ It was a Basic Website which was locally stored in pc. It was created Using HTML
 ### 📱 [Test Your Luck](https://github.com/Satanand01/test_your_luck)
 This is a python program which is created to test your luck based on Your Input. The Logic which used in this program is used by most of the gambling apps.
 
-### 📱 [Sales Dashboard for E-Commerce Business](https://github.com/Satanand01/test_your_luck](https://github.com/Satanand-Ken/Resume.md/blob/main/E-Commerce%20Sales%20Data.pbix)
+### 📱 [Sales Dashboard for E-Commerce Business](https://github.com/Satanand-Ken/Resume.md/blob/main/E-Commerce%20Sales%20Data.pbix)
 - Created interacting dashboard to track and analyze online sales data.
 - Used complex parameters to drill down in worksheet and customization using filters and slicers.
 - Created connections, join new tables, calculations to manipulate data and enable user driven parameters for visualizations.
