@@ -17,10 +17,10 @@ Passionate and results-driven developer with [2]+ years of experience as a **MIS
 * **MS Excel:** VLOOKUP, Pivot Tables, Charts, Conditional Formatting, Excel Automation (Macros, VBA)
 * **Google Sheets:** Data handling, formulas, **Google Sheets Automation** using Apps Script
 * **Data Management:** Data entry, cleaning, and validation
-* **Reporting:** Daily/Monthly MIS reporting, dashboard creation
+* **Power Bi:** Daily/Monthly MIS reporting, dashboard creation
 * **SQL (Basic):** SELECT, WHERE, JOIN queries
 * **Presentation Tools:** Microsoft PowerPoint, Google Slides
-* **ERP Exposure:** Basic knowledge of SAP, Tally, or Zoho
+* **ERP Exposure:** Basic knowledge of Tally
 * **Soft Skills:** Attention to detail, time management, communication, problem-solving
 ---
 
