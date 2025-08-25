@@ -22,9 +22,7 @@ Passionate and results-driven developer with [2]+ years of experience as a **MIS
 * **Presentation Tools:** Microsoft PowerPoint, Google Slides
 * **ERP Exposure:** Basic knowledge of Tally
 * **Soft Skills:** Attention to detail, time management, communication, problem-solving
-
-Fluency on keyboard
-* **70 Avg Typing Speed** - 
+* **70 Avg Typing Speed**  
 ---
 
 ## 💼 Experience
